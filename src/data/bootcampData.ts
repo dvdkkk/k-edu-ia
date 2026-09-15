@@ -17,7 +17,7 @@ export const COURSE_SUMMARY: CourseSummary = {
   title: "생성형AI × Java\n풀스택 개발 부트캠프",
   courseTitle: "현업에서 바로 통하는 자바 풀스택 & 생성형AI 서비스개발 실무 프로젝트 완성",
   capacity: "25명",
-  duration: "[6기]8/31, [7기]10/19, [8기]12/21",
+  duration: "[7기]10/19, [8기]12/21",
   schedule: "09:00~17:50 (월-금) ㅣ 6개월과정",
   originalPrice: "9,493,000원",
   discountedPrice: "0 ~ 40만원",
